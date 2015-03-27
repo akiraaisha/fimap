@@ -1,0 +1,2 @@
+Weevils injector by Darren "Infodox" Martyn <infodox@insecurety.net> | weevils | 2 | http://85.214.72.67/fimap_plugins/weevils-0.2.tar.gz
+AES HTTP reverse shell by Darren "Infodox" Martyn <infodox@insecurety.net> | aeshttp | 1 | http://85.214.72.67/fimap_plugins/aeshttp-0.1.tar.gz
